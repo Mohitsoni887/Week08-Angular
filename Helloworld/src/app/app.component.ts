@@ -8,5 +8,5 @@ import { RouterOutlet } from '@angular/router';
   styleUrl: './app.component.scss'
 })
 export class AppComponent {
-  message: string = "Hello from BridgeLabz ";  // Define message property
+  message: string = "Hello from BridgeLabz";  // Define message property
 }
